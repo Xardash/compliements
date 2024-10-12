@@ -1,0 +1,21 @@
+{
+  "anytime": [
+              "Cześć Seksi!",
+              "Jesteś wyjątkowa!",
+              "Masz piękne oczy!"
+            ],
+  "morning": [
+              "Komu potrzebna kawa jeżeli ma Twój uśmiech!",
+              "Dzień dobry!",
+              "Jak minęła Ci noc?"
+            ],
+  "afternoon": [
+              "Miłego popołudnia!",
+              "To popołudnie należy do Ciebie!",
+              "Przy Tobie zapominam o obiedzie!"
+  ],
+  "evening": [
+              "Cała noc przed Tobą!",
+              "Świetnie wyglądasz tego wieczoru!",
+             ]
+}
